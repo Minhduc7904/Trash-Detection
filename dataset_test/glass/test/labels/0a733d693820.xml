@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0a733d693820.jpg</filename>
+	<path>D:\Trash\test_gan_nhan\dataset_test\glass\test\images\0a733d693820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>1</ymin>
+			<xmax>346</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>
